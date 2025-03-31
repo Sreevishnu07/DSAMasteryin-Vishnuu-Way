@@ -1,4 +1,4 @@
-#This is the code for my most fav approach i mentioned here..
+//This is the code for my most fav approach i mentioned in the explanation md file..
 class Solution {
 public:
     int mostProfitablePath(vector<vector<int>>& edges, int bob, vector<int>& amount) {
